@@ -1,6 +1,6 @@
 # Readable-Json
 
-Version: 6.3.50
+Version: 6.3.52
 
 Đơn giản chỉ là Repo để lưu trữ các file JSON cho trang web mình làm :3
 
